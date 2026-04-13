@@ -7,10 +7,6 @@
   "observability": {
     "enabled": true
   },
-  "vars": {
-    "AUTH_MODE": "hosted",
-    "BETTER_AUTH_URL": "https://open-seo.argenis-dsg.workers.dev"
-  },
   "workflows": [
     {
       "name": "site-audit-workflow",
