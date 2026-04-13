@@ -11,7 +11,7 @@
     {
       "name": "site-audit-workflow",
       "binding": "SITE_AUDIT_WORKFLOW",
-      "class_name": "SiteAuditWorkflow"
+      "class_name": "SiteAuditWorkflow" 
     }
   ],
   "kv_namespaces": [
