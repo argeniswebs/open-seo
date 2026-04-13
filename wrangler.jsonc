@@ -6,7 +6,7 @@
   "compatibility_flags": ["nodejs_compat"],
   "observability": {
     "enabled": true
-  },
+  }, 
   "workflows": [
     {
       "name": "site-audit-workflow",
